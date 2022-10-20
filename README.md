@@ -11,7 +11,9 @@
 ### 👨‍💻 About Me :
 I'm a software engineer from Italy.
 - Passionate about the .NET platform on which I have been working since my first work experience
-- Currently working from home 🏠 for [Alten Group](https://www.alten.com/#)
+- Currently working from home 🏠 at [Alten Group](https://www.alten.com/#)
+
+I opened this GitHub profile to keep track of my personal projects and to get feedback from the community on the quality of the projects themselves.
 
 ---
 
@@ -26,5 +28,4 @@ I'm a software engineer from Italy.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-
 </div>
