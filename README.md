@@ -1,4 +1,4 @@
-# Hi there, I'm Simone 👋:computer:
+# Hi there, I'm Simone 👋 :computer:
 
 <div id="badges">
   <a href="//linkedin.com/in/simone-cappelletti-80118012b">
@@ -7,8 +7,8 @@
 </div>
 
 # 👨‍💻 About Me
-I'm a software engineer from Italy.
-- Passionate about the .NET platform on which I have been working since my first work experience.
+I'm a software developer from Italy.
+- Passionate about the .NET platform on which I have been working on since my first work experience.
 - Currently working from home 🏠 at [Alten Group](https://www.alten.com/#).
 
 I created this GitHub profile to keep track of my personal projects and to get feedback from the community about the quality of the projects themselves or any other kind of advice you want to give me.
@@ -18,6 +18,7 @@ This is a list of my personal projects hosted here on GitHub with a little expla
 - <b>DesignPatternImplementations</b> is a small project I use to put the design patterns I study into practice, albeit with very simplified examples.
 - <b>APIBaseTemplate</b> is a project that shows how I would structure a basic API project in .NET Core. It includes the database part, the ORM, authentication, authorization... service management via dependency injection and everything else you need. Everything is documented in the project itself.
 - <b>SignalRSample</b> and <b>SignalRChat</b>, the first one It's just the SignalR implementation example from MSDN while the second one It's a little project based on the udemy course by Bhrugen Patel that I did to documents on this library.
+- <b>Coding Challenges</b> Here you can find some coding challenges taken from https://codingchallenges.fyi/.
 
 # :hammer_and_wrench: Languages and Tools
 
