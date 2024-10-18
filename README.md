@@ -7,9 +7,9 @@
 </div>
 
 # 👨‍💻 About Me
-I'm a software developer from Italy.
+I'm a software engineer from Italy.
 - Passionate about the .NET platform on which I have been working on since my first work experience.
-- Currently working from home 🏠 at [Alten Group](https://www.alten.com/#).
+- Currently working from home 🏠 at [Hinto S.r.l](https://www.hintogroup.eu/it).
 
 I created this GitHub profile to keep track of my personal projects and to get feedback from the community about the quality of the projects themselves or any other kind of advice you want to give me.
 
