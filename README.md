@@ -15,7 +15,6 @@ I just created this GitHub profile to keep track of some simple code examples, m
 
 # :bug: About coding
 Here you can find:
-- <b>DesignPatternImplementations</b>: It is a small project I use to put the design patterns I study into practice, albeit with very simplified examples.
 - <b>APIBaseTemplate</b>: Since I am often asked in interviews how I would organise a basic API for a generic database, <b>APIBaseTemplate</b> is a project that shows how I would structure a basic API project in .NET Core. It includes the database part, the ORM, the handling of services via dependency injection and everything else. All documented in the project itself.
 - <b>SignalRSample</b> and <b>SignalRChat</b>: The first one It's just the SignalR implementation example from MSDN while the second one It's a little project based on the udemy course by Bhrugen Patel that I did to documents on this library.
 - <b>Coding Challenges</b>: Here you can find some coding challenges taken from https://codingchallenges.fyi/.
